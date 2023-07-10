@@ -10,15 +10,13 @@ The function is implemented in the C language and requires the gcc compiler and 
 
 Instructions
 1. Compiling the library
-
-To compile the library, navigate to its directory and execute the following command:
-
+- To compile the library, navigate to its directory and execute the following command:
 $ make
+
 2. Incorporating the library in your code
-
-To utilize the library functions in your code, simply include its header file:
-
+- To utilize the library functions in your code, simply include its header file:
 #include "ft_printf.h"
 
 # Testing 📋
-For comprehensive testing of the project, you can employ a third-party tester such as Tripouille's printfTester.
+
+- For comprehensive testing of the project, you can employ a third-party tester such as Tripouille's printfTester.
